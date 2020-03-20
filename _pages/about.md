@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
