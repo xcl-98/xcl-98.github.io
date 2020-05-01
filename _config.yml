@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xingchen Lan(兰星辰)"
 title_separator          : "-"
 name                     : &name "Xingchen Lan"
-description              : &description "M.A. student at Centor for East Asian Studies(CEAS), Stanford University"
+description              : &description "M.A. student at Center for East Asian Studies(CEAS), Stanford University"
 url                      : https://xcl-98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xcl-98.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Xingchen Lan"
   avatar           : "Xcclan.jpg" # "jianli.jpg" #
-  bio              : "MA student at Centor for East Asian Studies(CEAS), Stanford University(2020-2022)"
+  bio              : "MA student at Center for East Asian Studies(CEAS), Stanford University(2020-2022)"
   location         : "Beijing, China"
   employer         : 
   googlescholar    :
