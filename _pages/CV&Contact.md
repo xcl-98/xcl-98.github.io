@@ -3,8 +3,7 @@ layout: archive
 title: "CV&Contact"
 permalink: /CV&Contact/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
