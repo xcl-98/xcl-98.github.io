@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently an undergraduate student majoring in Korean Students and International Political Economy at Peking University. I may start my MA study at Center for East Asian Studies(CEAS), with Political Science orientation at [Stanford University](https://ceas.stanford.edu/) this year. <br>
+I am currently an undergraduate student majoring in Korean Students and International Political Economy at Peking University. I start my MA study at Center for East Asian Studies(CEAS), with Political Science orientation at [Stanford University](https://ceas.stanford.edu/) this year. <br>
  
-# Research Interests
-My research interests include **authoritarian politics and political methodology**, with a regional focus on East Asia(China, North Korea and Vietnam). <br>
+You can reach me via email xclan@stanford.edu
 
 
 
